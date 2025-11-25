@@ -1,2 +1,5 @@
 # Truco
-Juego implementado para jugar truco en JAVA
+JUEGO : TRUCO
+LENGUAJE : JAVA
+APELLIDO Y NOMBRE : ROLDAN TOMÁS NAHUEL
+LEGAJO : 200924
